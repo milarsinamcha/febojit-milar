@@ -1,2 +1,2 @@
 # febojit-milar now i am pro editor repositories
-![alt text](my.jpg | width=100)
+![mypic](my.jpg){width=250}
